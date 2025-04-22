@@ -16,10 +16,6 @@ To create a static library (`libftprintf.a`) containing the `ft_printf` function
 *   `%X`: Prints an unsigned integer in uppercase hexadecimal format.
 *   `%%`: Prints a literal percent sign (`%`).
 
-**Bonus Features Implemented:**
-*(Add details here if you implemented flags like `-`, `0`, `.`, width, `#`, `+`, ` `)*
-*   `[ ]` Handling of flags, width, and precision.
-
 **Tech Stack:**
 *   **Language:** C
 *   **Core Concepts:** **Variadic Functions** (`va_list`, `va_start`, `va_arg`, `va_end`), Format Specifier Parsing
